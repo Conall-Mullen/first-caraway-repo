@@ -27,3 +27,9 @@ Today we are learning Github and Markdown
 ![Me](./me.jpg)
 
 ![Flower](https://www.theflowerconnection.co.uk/wp-content/uploads/2023/05/purple-flower.png)
+
+## Code
+
+### Code Line 
+
+This is how we write code in line `let name = "Caraway"`
