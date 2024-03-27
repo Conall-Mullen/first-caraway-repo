@@ -24,4 +24,4 @@ Today we are learning Github and Markdown
 
 ### Image in repo
 
-![Me](./5e8e162a-29a6-4dbc-9042-7a9828b16c9f.jpg)
+![Me](./me.jpg)
