@@ -19,3 +19,9 @@ Today we are learning Github and Markdown
 ## Link a page 
 
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+## Image
+
+### Image in repo
+
+![Me](./https://github.com/Conall-Mullen/first-caraway-repo/blob/master/5e8e162a-29a6-4dbc-9042-7a9828b16c9f.jpg)
