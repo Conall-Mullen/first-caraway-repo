@@ -33,3 +33,10 @@ Today we are learning Github and Markdown
 ### Code Line 
 
 This is how we write code in line `let name = "Caraway"`
+
+### Code block
+
+```js
+let name = "Caraway";
+let loveMD = true;
+```
