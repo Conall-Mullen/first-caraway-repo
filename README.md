@@ -25,3 +25,5 @@ Today we are learning Github and Markdown
 ### Image in repo
 
 ![Me](./me.jpg)
+
+![Flower](https://www.theflowerconnection.co.uk/wp-content/uploads/2023/05/purple-flower.png)
